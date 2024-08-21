@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnoBissexto/AnoBissexto.iml" filepath="$PROJECT_DIR$/AnoBissexto/AnoBissexto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConverteSegundos/ConverteSegundos.iml" filepath="$PROJECT_DIR$/ConverteSegundos/ConverteSegundos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ferramentas Computacionais I.iml" filepath="$PROJECT_DIR$/Ferramentas Computacionais I.iml" />
     </modules>
   </component>
