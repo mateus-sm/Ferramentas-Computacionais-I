@@ -4,7 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnoBissexto/AnoBissexto.iml" filepath="$PROJECT_DIR$/AnoBissexto/AnoBissexto.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConverteSegundos/ConverteSegundos.iml" filepath="$PROJECT_DIR$/ConverteSegundos/ConverteSegundos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DistanciaEntrePontos/DistanciaEntrePontos.iml" filepath="$PROJECT_DIR$/DistanciaEntrePontos/DistanciaEntrePontos.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ferramentas Computacionais I.iml" filepath="$PROJECT_DIR$/Ferramentas Computacionais I.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUI/GUI.iml" filepath="$PROJECT_DIR$/GUI/GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Idade/Idade.iml" filepath="$PROJECT_DIR$/Idade/Idade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notas-Moedas/Notas-Moedas.iml" filepath="$PROJECT_DIR$/Notas-Moedas/Notas-Moedas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SomaDigitos/SomaDigitos.iml" filepath="$PROJECT_DIR$/SomaDigitos/SomaDigitos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Temperatura/Temperatura.iml" filepath="$PROJECT_DIR$/Temperatura/Temperatura.iml" />
     </modules>
   </component>
 </project>
