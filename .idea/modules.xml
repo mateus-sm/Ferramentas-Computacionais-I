@@ -11,6 +11,12 @@
       <module fileurl="file://$PROJECT_DIR$/Notas-Moedas/Notas-Moedas.iml" filepath="$PROJECT_DIR$/Notas-Moedas/Notas-Moedas.iml" />
       <module fileurl="file://$PROJECT_DIR$/SistemaPRICE/SistemaPRICE.iml" filepath="$PROJECT_DIR$/SistemaPRICE/SistemaPRICE.iml" />
       <module fileurl="file://$PROJECT_DIR$/SomaDigitos/SomaDigitos.iml" filepath="$PROJECT_DIR$/SomaDigitos/SomaDigitos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String1/String1.iml" filepath="$PROJECT_DIR$/String1/String1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String2/String2.iml" filepath="$PROJECT_DIR$/String2/String2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String3/String3.iml" filepath="$PROJECT_DIR$/String3/String3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String4/String4.iml" filepath="$PROJECT_DIR$/String4/String4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String5/String5.iml" filepath="$PROJECT_DIR$/String5/String5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String6/String6.iml" filepath="$PROJECT_DIR$/String6/String6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Temperatura/Temperatura.iml" filepath="$PROJECT_DIR$/Temperatura/Temperatura.iml" />
     </modules>
   </component>
