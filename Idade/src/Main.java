@@ -1,3 +1,4 @@
+import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.util.Scanner;
 
@@ -6,8 +7,7 @@ public class Main {
         // Escreva um programa em Java que determine qual é a idade que o usuário faz no ano atual. Para isso
         //solicite o ano de nascimento do usuário. O ano atual deve ser recuperado do sistema (pesquise pelo
         //uso de LocalDate).
-        LocalDate localDate = LocalDate.now();
-        int ano = localDate.now().getYear();
+        int ano = LocalDate.now().getYear();
         Scanner sc = new Scanner(System.in);
         int anoNasc, idade;
 
